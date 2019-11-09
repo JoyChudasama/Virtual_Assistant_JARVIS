@@ -1,10 +1,16 @@
 # Virtual_Assistant_JARVIS
 
-This Project is made using Pycharm in pure Python 3 and it's only one file ('Engine.py'). Have used many functions, methods, lists, dictionaries, external audio files as well as Google's Search API & Many Libraries.
+This Project is made using Pycharm in pure Python 3 and it's only one file (Engine.py). Have used many functions, methods, lists, dictionaries, external audio files as well as Google's Search API & Many Libraries.  
 
 #After Starting The File 
  
  You should start your conversation with the command 'What can you do?' & you will get answers of everything this Virtual Assistant in capable of. 
+
+#Files
+
+Audio Files
+Pycahrm File
+Wheel File (win_amd-64.whl) - In case of your Python version does not support Pyaudio 
 
 #Libraries I Have Used 
 
@@ -21,6 +27,7 @@ This Project is made using Pycharm in pure Python 3 and it's only one file ('Eng
 #Voice I have used
 
 Name of the voice is DAVID and it's pre-installed in windows 10 
+
 
 #Thank You 
 
