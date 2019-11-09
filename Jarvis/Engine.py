@@ -271,7 +271,7 @@ def beatAns():
 
 if __name__ == '__main__':
 
-
+    greetings()
     while True:
         command = takeCommands().lower()
 
