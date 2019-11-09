@@ -9,7 +9,7 @@ This Project is made using Pycharm in pure Python 3 and it's only one file (Engi
 #Files
 
 1. Audio Files
-2. Pycahrm File
+2. .py File
 3. Wheel File (win_amd-64.whl) - In case of your Python version does not support Pyaudio 
 
 #Libraries I Have Used 
