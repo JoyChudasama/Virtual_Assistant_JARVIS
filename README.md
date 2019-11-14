@@ -14,7 +14,7 @@ This Project is made using Pycharm in pure Python 3 and it's only one file (Engi
 
 #Libraries I Have Used 
 
-1. pyttsx3 - For voice of Jarvis
+1. pyttsx3 - To Enable Speaking 
 2. datetime - For date and time
 3. speech_recognition - For Speech Recognition
 4. webbrowser - For opening websites in browser
